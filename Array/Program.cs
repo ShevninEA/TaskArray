@@ -1,5 +1,4 @@
-﻿
-namespace TaskArray
+﻿namespace TaskArray
 {
     internal class Program
     {
